@@ -1,0 +1,8 @@
+[Activity]
+name = Journal Share
+summary = Want to share your work in easy way? Journal Share could help you.
+activity_version = 6
+bundle_id = org.sugarlabs.JournalShare
+exec = sugar-activity activity.JournalShare
+icon = journal-share-icon
+license = GPLv3+

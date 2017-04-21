@@ -1,0 +1,6 @@
+*.mo
+*.pyo
+*.pyc
+*.xo
+*~
+web/files

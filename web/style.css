@@ -1,0 +1,73 @@
+body {
+  margin: 0px;
+  font-family: sans-serif,cantarell,helvetica;
+}
+
+#journaltable {
+  width: 100%;
+}
+
+#header {
+  font-family: sans-serif,cantarell,helvetica;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  width: 90%;
+  padding: 20px;
+}
+
+.title {
+  font-family: sans-serif,cantarell,helvetica;
+  font-size: 18px;
+  font-weight: bold;
+  color: #3D4E9C;
+  width: 100%;
+}
+
+.description {
+  font-family: sans-serif,cantarell,helvetica;
+  font-size: 16px;
+}
+
+.desc_td {
+  vertical-align: top;
+  width: 100%;
+}
+
+.desc_table {
+  border: gray 2px solid;
+  font-size: 14px;
+  width: 98%;
+  -webkit-border-radius: 10px;
+}
+
+.download_link {
+  display:block;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #CCCCCC;
+  width: 150px;
+  text-align:center;
+  padding:4px;
+  text-decoration:none;
+  border-radius: 10px;
+}
+
+.download_link:hover, .download_link:active {
+  background-color:#EEEEEE;
+}
+
+.error_msg {
+  font-family: sans-serif,cantarell,helvetica;
+  color: #000000;
+  font-size: 26px;
+  width: 100%;
+  text-align: center;
+  padding: 120px;
+}
+
+img {
+  padding: 5px;
+}
